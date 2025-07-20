@@ -42,6 +42,9 @@
 <channel id="6479ff764f5ba5000878dfe2">
 <display-name>Pluto TV Cine Crime</display-name>
 </channel>
+<channel id="6806d62369aec5b19cd628c0">
+<display-name>Pluto TV Filmes de Luta</display-name>
+</channel>
 <channel id="5f12101f0b12f00007844c7c">
 <display-name>Pluto TV Cine Comédia</display-name>
 </channel>
@@ -64,7 +67,7 @@
 <display-name>Pluto TV Terror Trash</display-name>
 </channel>
 <channel id="61b790b985706b00072cb797">
-<display-name>Pluto TV Adrenalina Freezone</display-name>
+<display-name>Adrenalina Pura TV</display-name>
 </channel>
 <channel id="66c79a4262e5510008ff68a5">
 <display-name>Pluto TV Filmes Aventura</display-name>
@@ -87,18 +90,6 @@
 <channel id="633dcebd80386500074a2461">
 <display-name>Filmelier TV</display-name>
 </channel>
-<channel id="5f8a11ce2a4559000782a583">
-<display-name>Pluto TV Cine Natal</display-name>
-</channel>
-<channel id="5f4fc5aeca824d000783d321">
-<display-name>Clima de Natal</display-name>
-</channel>
-<channel id="5f8a12659ab0370008b177f4">
-<display-name>Músicas de Natal</display-name>
-</channel>
-<channel id="66e1e2d515d2c60008e4b690">
-<display-name>MTV Músicas de Natal</display-name>
-</channel>
 <channel id="6474ab5cdc7a760008745008">
 <display-name>Pluto TV Séries Criminais</display-name>
 </channel>
@@ -107,6 +98,9 @@
 </channel>
 <channel id="63eb9fdda995710008991c54">
 <display-name>NCIS</display-name>
+</channel>
+<channel id="67f960c5441853fe50e7afc1">
+<display-name>Numbers</display-name>
 </channel>
 <channel id="6474ab1da51cb80008bfb5f4">
 <display-name>Pluto TV Séries Ação</display-name>
@@ -123,6 +117,9 @@
 <channel id="66b3af48d2d50d00083d6936">
 <display-name>Z Nation</display-name>
 </channel>
+<channel id="67e59a6557487a8b7fe73e23">
+<display-name>A Caçadora de Relíquias</display-name>
+</channel>
 <channel id="65f060d84e01740008d7421f">
 <display-name>Pluto TV Séries Drama</display-name>
 </channel>
@@ -137,6 +134,18 @@
 </channel>
 <channel id="613fd0043ffa39000736bb2b">
 <display-name>Younger</display-name>
+</channel>
+<channel id="60f5fabf0721880007cd50e3">
+<display-name>Nickelodeon Teen</display-name>
+</channel>
+<channel id="620ff46e0a576e0007dc2f89">
+<display-name>Nickelodeon iCarly</display-name>
+</channel>
+<channel id="5ffcc5130fd98c0007f2e216">
+<display-name>Kenan &amp; Kel</display-name>
+</channel>
+<channel id="64e501eec630a900088ed0f8">
+<display-name>Clube do Terror</display-name>
 </channel>
 <channel id="5f1212ad1728050007a523b8">
 <display-name>Pluto TV Retrô</display-name>
@@ -156,14 +165,29 @@
 <channel id="655e5c4d2c46f3000877a54b">
 <display-name>Pluto TV Desenhos Clássicos</display-name>
 </channel>
+<channel id="677d93f37bffa600080795e7">
+<display-name>Popeye</display-name>
+</channel>
 <channel id="5f512365abe1f50007d3ff56">
 <display-name>Pluto TV Novelas</display-name>
+</channel>
+<channel id="6077045b6031bd00078de127">
+<display-name>MasterChef</display-name>
+</channel>
+<channel id="6647c0b91050b60008390de4">
+<display-name>Sony One Shark Tank Brasil</display-name>
 </channel>
 <channel id="645111f1d8436e00081bb2bd">
 <display-name>MTV Drag</display-name>
 </channel>
 <channel id="5f1212fb81e85c00077ae9ef">
 <display-name>MTV Pluto TV</display-name>
+</channel>
+<channel id="6851bdfc9ac48fde5e07f5ae">
+<display-name>MTV Reality</display-name>
+</channel>
+<channel id="6851bb3426beced4f2f67ee6">
+<display-name>MTV Dating</display-name>
 </channel>
 <channel id="625463563b8ddc0007134aeb">
 <display-name>MTV Shore</display-name>
@@ -182,12 +206,6 @@
 </channel>
 <channel id="63988b61c8d285000798a22a">
 <display-name>MTV Just Tattoo of Us</display-name>
-</channel>
-<channel id="6077045b6031bd00078de127">
-<display-name>MasterChef</display-name>
-</channel>
-<channel id="6647c0b91050b60008390de4">
-<display-name>Sony One Shark Tank Brasil</display-name>
 </channel>
 <channel id="5f1213ba0ecebc00070e170f">
 <display-name>Pluto TV Natureza</display-name>
@@ -225,6 +243,9 @@
 <channel id="5fac52f142044f00078e2a51">
 <display-name>Pluto TV Mistérios</display-name>
 </channel>
+<channel id="6806d65e84f24b70109485fa">
+<display-name>Pluto TV Aliens</display-name>
+</channel>
 <channel id="620d1512c7986a0007220213">
 <display-name>Assombrações</display-name>
 </channel>
@@ -234,9 +255,6 @@
 <channel id="656e2a10954b020008ed167c">
 <display-name>Caçadores de Óvnis</display-name>
 </channel>
-<channel id="62cd9e5a5c38c00007f5669a">
-<display-name>Pluto TV Quebrando o Tabu</display-name>
-</channel>
 <channel id="6298bd10d88ef000073f16b7">
 <display-name>Smithsonian Channel Pluto TV</display-name>
 </channel>
@@ -245,6 +263,9 @@
 </channel>
 <channel id="5f32cf37c9ff2b00082adbc8">
 <display-name>Pluto TV Investigação</display-name>
+</channel>
+<channel id="678fdf9e3de7c8cf948e8824">
+<display-name>Pluto TV Policial</display-name>
 </channel>
 <channel id="620d12a82e8ac50007c269c3">
 <display-name>Os Arquivos do FBI</display-name>
@@ -270,8 +291,17 @@
 <channel id="6317ba014d4d040007227f72">
 <display-name>Jovem Pan NEWS</display-name>
 </channel>
+<channel id="679a973a97782f0008ff4bb6">
+<display-name>Times Brasil | CNBC</display-name>
+</channel>
 <channel id="645a99282858cb0008ea8378">
 <display-name>NEW Brasil</display-name>
+</channel>
+<channel id="62e010e6cd663f0007e57dc8">
+<display-name>TV Cultura</display-name>
+</channel>
+<channel id="64b9370b409629000802d32b">
+<display-name>Pluto TV Canal UOL</display-name>
 </channel>
 <channel id="5f32d2db0af67400077f29c4">
 <display-name>Pluto TV Esportes</display-name>
@@ -282,11 +312,8 @@
 <channel id="63dac28760bc8f0008a7654b">
 <display-name>Realmadrid TV</display-name>
 </channel>
-<channel id="64b02be14ea480000831ec78">
-<display-name>DAZN Women's Football</display-name>
-</channel>
 <channel id="65a6818c7bdc8d0008457b21">
-<display-name>MAVTV Brasil</display-name>
+<display-name>RACER Brasil</display-name>
 </channel>
 <channel id="6660b636cb3ea10008429c6a">
 <display-name>SFT Combat</display-name>
@@ -296,6 +323,9 @@
 </channel>
 <channel id="64f6180130ab3300083d896b">
 <display-name>PFL MMA</display-name>
+</channel>
+<channel id="6752f863cbfdc56330643e9b">
+<display-name>Pluto TV Modus Super Series Darts</display-name>
 </channel>
 <channel id="664f766741af640008e59cc9">
 <display-name>Billiard TV</display-name>
@@ -324,20 +354,14 @@
 <channel id="5f357e91b18f0b00073583d2">
 <display-name>Comedy Central Pluto TV</display-name>
 </channel>
-<channel id="5f36f2346ede750007332d11">
-<display-name>Porta dos Fundos</display-name>
+<channel id="67802a22a5d8215f99dcee30">
+<display-name>Pegadinhas - Just for Laughs</display-name>
 </channel>
 <channel id="5f5141c1605ddf000748eb1b">
 <display-name>FailArmy</display-name>
 </channel>
 <channel id="5f515ebac01c0f00080e8439">
 <display-name>The Pet Collective</display-name>
-</channel>
-<channel id="62e010e6cd663f0007e57dc8">
-<display-name>TV Cultura</display-name>
-</channel>
-<channel id="6048fc47a44e540007745d2b">
-<display-name>RedeTV!</display-name>
 </channel>
 <channel id="66a7d0e0cd0d310008448610">
 <display-name>Salon Line</display-name>
@@ -356,9 +380,6 @@
 </channel>
 <channel id="662156805a31f70013dba21c">
 <display-name>DiaTV</display-name>
-</channel>
-<channel id="66296e755a402e00086a2c47">
-<display-name>Cultne TV</display-name>
 </channel>
 <channel id="5f12136385bccc00070142ed">
 <display-name>Pluto TV Anime</display-name>
@@ -414,26 +435,8 @@
 <channel id="64c815e8a1c6130008fef928">
 <display-name>Pluto TV Gaming por Ubisoft</display-name>
 </channel>
-<channel id="60f5fabf0721880007cd50e3">
-<display-name>Nick Teen</display-name>
-</channel>
-<channel id="620ff46e0a576e0007dc2f89">
-<display-name>Nickelodeon iCarly</display-name>
-</channel>
-<channel id="5ffcc5130fd98c0007f2e216">
-<display-name>Kenan &amp; Kel</display-name>
-</channel>
-<channel id="64e501eec630a900088ed0f8">
-<display-name>Clube do Terror</display-name>
-</channel>
-<channel id="6495c7ad115d060008bf6df0">
-<display-name>PAW Patrol Patrulha Canina</display-name>
-</channel>
-<channel id="5f121460b73ac6000719fbaf">
+<channel id="6824ce95f09106f4b18f4114">
 <display-name>Nick Jr. Club</display-name>
-</channel>
-<channel id="656e28dd57fe4a0008819c3d">
-<display-name>Dora, A Aventureira</display-name>
 </channel>
 <channel id="63da6bcd60bc8f0008a5d364">
 <display-name>Baby Shark TV</display-name>
@@ -453,20 +456,14 @@
 <channel id="5f5c216df68f920007888315">
 <display-name>O Reino Infantil</display-name>
 </channel>
-<channel id="5f12151794c1800007a8ae63">
+<channel id="6824ce10c5d53e1351ceb8d1">
 <display-name>Nickelodeon Clássico</display-name>
 </channel>
-<channel id="66b4e477d512590008ca6849">
-<display-name>Hey Arnold!</display-name>
-</channel>
-<channel id="61f2c6969fcc3800076ef8af">
-<display-name>Rugrats</display-name>
-</channel>
-<channel id="6202a7fcfb1b100008811f54">
-<display-name>Nickelodeon Rocket Power</display-name>
+<channel id="6759eeb1bd523200083b4f29">
+<display-name>Avatar: A lenda de Aang</display-name>
 </channel>
 <channel id="645951c0e94c38000802d2cb">
-<display-name>Nickelodeon Pluto TV</display-name>
+<display-name>Nickelodeon Toons</display-name>
 </channel>
 <channel id="62545c0b002f4b0007688b61">
 <display-name>Bob Esponja Calça Quadrada</display-name>
@@ -981,7 +978,7 @@
 <display-name>cinemax hd</display-name>
 </channel>
 <channel id="MTV00">
-<display-name>mtv's 00</display-name>
+<display-name>mtv 00</display-name>
 </channel>
 <channel id="CGTN">
 <display-name>CGTN</display-name>
@@ -1060,17 +1057,17 @@
 <display-name>sportv4</display-name>
 <display-name>sportv4 hd</display-name>
 </channel>
-<channel id="NOSSOFUTEBOL">
-<display-name>nosso futebol</display-name>
+<channel id="SPORTYNET">
+<display-name>SPORTYNET</display-name>
 </channel>
-<channel id="NOSSOFUTEBOLPLUS1">
-<display-name>nosso futebol + 1</display-name>
+<channel id="SPORTYNETPLUS1">
+<display-name>SPORTYNET + 1</display-name>
 </channel>
-<channel id="NOSSOFUTEBOLPLUS2">
-<display-name>nosso futebol + 2</display-name>
+<channel id="SPORTYNETPLUS2">
+<display-name>SPORTYNET + 2</display-name>
 </channel>
-<channel id="NOSSOFUTEBOLPLUS3">
-<display-name>nosso futebol + 3</display-name>
+<channel id="SPORTYNETPLUS3">
+<display-name>SPORTYNET + 3</display-name>
 </channel>
 <channel id="PARAMOUNTPLUS1">
 <display-name>Paramount+</display-name>
@@ -1111,8 +1108,8 @@
 <channel id="DOGTV">
 <display-name>DOG TV</display-name>
 </channel>
-<channel id="ZOOMOO">
-<display-name>ZOOMOO</display-name>
+<channel id="DUMDUM">
+<display-name>DUMDUM</display-name>
 </channel>
 <channel id="LIKEHD">
 <display-name>LIKE HD</display-name>
@@ -1132,6 +1129,9 @@
 <channel id="ADULTSWIM">
 <display-name>adult swim</display-name>
 </channel>
+<channel id="LMC">
+<display-name>LMC</display-name>
+</channel>
 <channel id="SEXTREME">
 <display-name>sextreme</display-name>
 </channel>
@@ -1142,9 +1142,46 @@
 <channel id="VENUS">
 <display-name>Venus</display-name>
 </channel>
+<channel id="SPTVHD">
+<display-name>SPORTV TV</display-name>
+</channel>
+<channel id="SPT1HD">
+<display-name>SPORT TV 1</display-name>
+</channel>
+<channel id="SPT2HD">
+<display-name>SPORT TV 2</display-name>
+</channel>
+<channel id="SPT3HD">
+<display-name>SPORT TV 3</display-name>
+</channel>
+<channel id="SPT4HD">
+<display-name>SPORT TV 4</display-name>
+</channel>
+<channel id="SPT5HD">
+<display-name>SPORT TV 5</display-name>
+</channel>
+<channel id="SPT6HD">
+<display-name>SPORT TV 6</display-name>
+</channel>
+<channel id="SPT7HD">
+<display-name>SPORT TV 7</display-name>
+</channel>
+<channel id="DAZN1">
+<display-name>DAZN 1</display-name>
+</channel>
+<channel id="DAZN2">
+<display-name>DAZN 2</display-name>
+</channel>
+<channel id="DAZN3">
+<display-name>DAZN 3</display-name>
+</channel>
+<channel id="DAZN4">
+<display-name>DAZN 4</display-name>
+</channel>
+<channel id="DAZN5">
+<display-name>DAZN 5</display-name>
+</channel>
 <channel id="EMPREENDER">
 <display-name>Empreender</display-name>
 </channel>
-
-
-</tv>
+/tv>
