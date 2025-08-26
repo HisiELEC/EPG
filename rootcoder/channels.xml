@@ -294,9 +294,6 @@
 <channel id="679a973a97782f0008ff4bb6">
 <display-name>Times Brasil | CNBC</display-name>
 </channel>
-<channel id="645a99282858cb0008ea8378">
-<display-name>NEW Brasil</display-name>
-</channel>
 <channel id="62e010e6cd663f0007e57dc8">
 <display-name>TV Cultura</display-name>
 </channel>
@@ -889,10 +886,6 @@
 <display-name>TNT Novelas HD</display-name>
 <display-name>TNT Novelas</display-name>
 </channel>
-<channel id="VIVA">
-<display-name>viva</display-name>
-<display-name>viva hd</display-name>
-</channel>
 <channel id="MTV">
 <display-name>mtv</display-name>
 <display-name>mtv hd</display-name>
@@ -1123,6 +1116,9 @@
 <channel id="PLAYTV">
 <display-name>PLAY TV</display-name>
 <display-name>PLAY TV HD</display-name>
+</channel>
+<channel id="GLOBOPLAYNOVELAS">
+<display-name>GLOBOPLAYNOVELAS</display-name>
 </channel>
 <channel id="SEXTREME">
 <display-name>SEXTREME</display-name>
