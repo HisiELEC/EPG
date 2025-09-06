@@ -1171,4 +1171,7 @@
 <channel id="EMPREENDER">
 <display-name>Empreender</display-name>
 </channel>
+<channel id="GETV">
+<display-name>GE TV HD</display-name>
+</channel>
 </tv>
