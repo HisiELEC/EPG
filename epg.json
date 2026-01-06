@@ -2,19 +2,19 @@
     {
      "id": "@rootcoder EPG",
      "url": "https://github.com/rootcoder/epgtv/raw/main/guide.xml.gz",
-     "channelUrl": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels.xml",
+     "channelUrl": "https://raw.githubusercontent.com/rootcoder/epgtv/main/channels.xml",
      "map": [
         {
             "id": "Canais BR",
-            "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_br.map"
+            "url": "https://raw.githubusercontent.com/rootcoder/epgtv/main/channels_br.map"
         },
         {
           "id": "Canais BR/RJ",
-          "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_rj.map"
+          "url": "https://raw.githubusercontent.com/rootcoder/epgtv/main/channels_rj.map"
         },
         {
          "id": "Canais BR/SP",
-         "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_sp.map"
+         "url": "https://raw.githubusercontent.com/rootcoder/epgtv/main/channels_sp.map"
         }
        ]
     },
